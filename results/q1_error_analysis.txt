@@ -1,0 +1,63 @@
+
+======================================================================
+ERROR ANALYSIS REPORT
+======================================================================
+
+Total errors analyzed: 10
+Average WER: 1.000
+Average CER: 1.000
+
+SAMPLE ERRORS:
+----------------------------------------------------------------------
+
+Error 1:
+  Reference: नमस्ते मेरा नाम राज है
+  Predicted:  you
+  WER: 1.000, CER: 1.000
+
+Error 2:
+  Reference: मुझे कंप्यूटर प्रोग्रामिंग पसंद है
+  Predicted:  Succeed!
+  WER: 1.000, CER: 1.000
+
+Error 3:
+  Reference: भारत एक बहुत सुंदर देश है
+  Predicted:  Succeed!
+  WER: 1.000, CER: 1.000
+
+Error 4:
+  Reference: मेरा परिवार बहुत प्यारा है
+  Predicted:  you
+  WER: 1.000, CER: 1.000
+
+Error 5:
+  Reference: आज का मौसम बहुत अच्छा है
+  Predicted:  Succeed!
+  WER: 1.000, CER: 1.000
+
+Error 6:
+  Reference: मैं स्कूल जाने वाला हूँ
+  Predicted:  Succeed!
+  WER: 1.000, CER: 1.000
+
+Error 7:
+  Reference: चाय पीना मुझे पसंद है
+  Predicted:  you
+  WER: 1.000, CER: 1.000
+
+Error 8:
+  Reference: क्या आप मेरी मदद कर सकते हैं
+  Predicted:  Succeed!
+  WER: 1.000, CER: 1.000
+
+Error 9:
+  Reference: यह किताब बहुत रोचक है
+  Predicted:  1.5mm
+  WER: 1.000, CER: 1.000
+
+Error 10:
+  Reference: मुझे गाना गाना पसंद है
+  Predicted:  Succeed!
+  WER: 1.000, CER: 1.000
+
+======================================================================

@@ -1,0 +1,21 @@
+﻿Word,Classification,Confidence,Reason,Category
+महत्वपूर्ण,correct,high,Found in dictionary,dictionary_word
+आज,correct,high,Found in dictionary,dictionary_word
+कल,correct,high,Found in dictionary,dictionary_word
+शिक्षा,correct,high,Found in dictionary,dictionary_word
+विद्यार्थी,correct,high,Found in dictionary,dictionary_word
+घर,correct,high,Found in dictionary,dictionary_word
+खाना,correct,high,Found in dictionary,dictionary_word
+कंप्यूटर,correct,high,Valid English transliteration,transliteration
+इंटरव्यू,correct,high,Valid English transliteration,transliteration
+सॉफ्टवेयर,correct,high,Valid English transliteration,transliteration
+प्रोग्राम,correct,high,Valid English transliteration,transliteration
+डेवेलपर,correct,high,Valid English transliteration,transliteration
+विदयार्थी,unknown,low,"Not found in dictionary, needs manual review",unknown
+शिक्षा,correct,high,Found in dictionary,dictionary_word
+नेटवर्क,correct,high,Valid English transliteration,transliteration
+डाटा,correct,high,Valid English transliteration,transliteration
+एल्गोरिदम,unknown,low,"Not found in dictionary, needs manual review",unknown
+दो-चार,unknown,low,"Not found in dictionary, needs manual review",unknown
+क्षेत्र,correct,high,Found in dictionary,dictionary_word
+ज्ञान,correct,high,Found in dictionary,dictionary_word

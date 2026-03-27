@@ -1,0 +1,11 @@
+user_id,recording_id,language,duration,audio_path,transcript_path,transcription
+100000,500000,hi,3,data/synthetic\audio_0000.wav,data/synthetic\transcription_0000.json,नमस्ते मेरा नाम राज है
+100001,500001,hi,6,data/synthetic\audio_0001.wav,data/synthetic\transcription_0001.json,आज का मौसम बहुत अच्छा है
+100002,500002,hi,5,data/synthetic\audio_0002.wav,data/synthetic\transcription_0002.json,मुझे कंप्यूटर प्रोग्रामिंग पसंद है
+100003,500003,hi,3,data/synthetic\audio_0003.wav,data/synthetic\transcription_0003.json,भारत एक बहुत सुंदर देश है
+100004,500004,hi,5,data/synthetic\audio_0004.wav,data/synthetic\transcription_0004.json,क्या आप मेरी मदद कर सकते हैं
+100005,500005,hi,5,data/synthetic\audio_0005.wav,data/synthetic\transcription_0005.json,मैं स्कूल जाने वाला हूँ
+100006,500006,hi,3,data/synthetic\audio_0006.wav,data/synthetic\transcription_0006.json,चाय पीना मुझे पसंद है
+100007,500007,hi,7,data/synthetic\audio_0007.wav,data/synthetic\transcription_0007.json,यह किताब बहुत रोचक है
+100008,500008,hi,7,data/synthetic\audio_0008.wav,data/synthetic\transcription_0008.json,मेरा परिवार बहुत प्यारा है
+100009,500009,hi,5,data/synthetic\audio_0009.wav,data/synthetic\transcription_0009.json,मुझे गाना गाना पसंद है
